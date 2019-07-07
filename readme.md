@@ -1,8 +1,11 @@
 # Powerscribe Macro Extractor
 ## Requirement
-* Nodejs
-* Yarn
-## Setup
+* Nodejs - `choco install nodejs`
+* Yarn - `choco install yarn`
+* Windows Build Tools - `yarn global add windows-build-tools`
+## Install
+* `git clone https://github.com/MichaelLeeHobbs/powerscribe-macro-extractor.git`
+* `cd powerscribe-macro-extractor`
 * `yarn install`
 ## Usage
 * `yarn extract /path/to/macroFile.xml`
