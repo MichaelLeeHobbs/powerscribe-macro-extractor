@@ -1,8 +1,12 @@
 # Powerscribe Macro Extractor
 ## Requirement
+### Windows
 * Nodejs - `choco install nodejs`
 * Yarn - `choco install yarn`
 * Windows Build Tools - `yarn global add windows-build-tools`
+### Linux
+* Nodejs - `https://nodejs.org/en/download/`
+* Yarn - `https://yarnpkg.com/lang/en/docs/install/`
 ## Install
 * `git clone https://github.com/MichaelLeeHobbs/powerscribe-macro-extractor.git`
 * `cd powerscribe-macro-extractor`
