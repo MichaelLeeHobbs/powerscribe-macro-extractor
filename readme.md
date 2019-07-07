@@ -1,5 +1,5 @@
 # Powerscribe Macro Extractor
-## Requirement
+## Requirements
 ### Windows
 * Nodejs - `choco install nodejs`
 * Yarn - `choco install yarn`
