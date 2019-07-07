@@ -1,0 +1,15 @@
+{
+  "name": "powerscribe-macro-extractor",
+  "version": "1.0.0",
+  "description": "Powerscribe Macro Extractor",
+  "main": "index.js",
+  "repository": "git@github.com:MichaelLeeHobbs/powerscribe-macro-extractor.git",
+  "author": "Michael Hobbs <michael.lee.hobbs@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "extract": "node src/index.js"
+  },
+  "dependencies": {
+    "xml2json": "^0.11.2"
+  }
+}
